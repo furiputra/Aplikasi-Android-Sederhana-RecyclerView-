@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Wayang Di Indonesia</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="title">10 Wayang yang ada di Indonesia</string>
+    <string name="titleDetail">Detail Wayang</string>
+    <string name="Wayang_name">Nama Wayang</string>
+    <string name="description">Deskripsi</string>
+    <string name="asal_negara">Asal Negara</string>
+    <string name="periode">Periode Menjabat</string>
+    <string name="contoh_periode">xxxx - sekarang</string>
+    <string name="contoh_negara">Indonesia</string>
+    <string name="nama">Furi Ananda Satria Putra</string>
+    <string name="email">furisatria068@gmail.com</string>
+    <string-array name="data_name">
+        <item>Yudistira</item>
+        <item>Bima</item>
+        <item>Arjuna</item>
+        <item>Nakula</item>
+        <item>Sadewa</item>
+        <item>destrarasta</item>
+        <item>duryudana</item>
+        <item>dursasana</item>
+        <item>krisna</item>
+        <item>pandu</item>
+    </string-array>
+    <string-array name="data_description">
+        <!--        Yudistira - Hastinapura-->
+        <item>Yudistira adalah tokoh pewayangan dalam cerita Mahabharata yang berasal dari India kuno. Ia adalah putra tertua dari Pandu dan Kunti, serta kakak dari empat saudara lainnya, yakni Bhima, Arjuna, Nakula, dan Sadewa.</item>
+        <!--        Bima - Hastinapura-->
+        <item>Bima adalah salah satu tokoh pewayangan dalam cerita Mahabharata yang berasal dari India kuno. Ia merupakan putra kedua dari Pandu dan Kunti serta adik dari Yudistira, kakak dari Arjuna dan Nakula, serta saudara kembar Sadewa.</item>
+        <!--        Arjuna - Hastinapura-->
+        <item>Arjuna adalah salah satu tokoh pewayangan dalam cerita Mahabharata yang berasal dari India kuno. Ia merupakan putra ketiga dari Pandu dan Kunti serta adik dari Yudistira dan Bima, serta saudara kembar Sadewa.</item>
+        <!--        Nakula - Hastinapura-->
+        <item>Nakula adalah salah satu tokoh pewayangan dalam cerita Mahabharata yang berasal dari India kuno. Ia merupakan putra bungsu dari Pandu dan Kunti serta adik dari Yudistira, Bima, dan Arjuna, serta saudara kembar Sadewa..</item>
+        <!--        Sadewa - Hastinapura-->
+        <item>Sadewa adalah salah satu tokoh pewayangan dalam cerita Mahabharata yang berasal dari India kuno. Ia merupakan putra bungsu dari Pandu dan Madri serta saudara kembar Nakula.</item>
+        <!--        Destrarasta - Hastinapura-->
+        <item>Destrarastra adalah salah satu tokoh dalam cerita Mahabharata yang berasal dari India kuno. Ia adalah raja Hastinapura yang buta dan kakak dari Pandu, ayah dari lima Korawa dan sepupu dari lima Pandawa.</item>
+        <!--        Duryudana - Hastinapura-->
+        <item>Duryudana adalah salah satu tokoh dalam cerita Mahabharata yang berasal dari India kuno. Ia adalah putra sulung dari Dritarashtra dan pewaris takhta kerajaan Hastinapura. Duryudana dikenal sebagai sosok yang licik, ambisius, dan sangat tamak.</item>
+        <!--        Dursasana - Hastinapura-->
+        <item>Dursasana adalah salah satu tokoh dalam cerita Mahabharata yang berasal dari India kuno dan merupakan salah satu anak Dritarashtra. Ia adalah adik dari Duryodhana, yang merupakan pewaris takhta kerajaan Hastinapura.</item>
+        <!--        Krisna - Vrindavan-->
+        <item>Krishna adalah salah satu tokoh utama dalam cerita Mahabharata dan mitologi Hindu. Ia adalah sosok yang sangat terkenal dan dianggap sebagai inkarnasi dewa Wisnu.</item>
+        <!--        Pandu - Hastinapura-->
+        <item>Prabu Pandu Dewanata atau lebih dikenal dengan Pandu adalah tokoh penting dalam cerita Mahabharata. Ia adalah ayah dari lima Pandawa bersaudara dan merupakan raja kerajaan Hastinapura.</item>
+    </string-array>
+
+    <string-array name="data_negara">
+        <item>Hastinapura</item>
+        <item>Hastinapura</item>
+        <item>Hastinapura</item>
+        <item>Hastinapura</item>
+        <item>Hastinapura</item>
+        <item>Hastinapura</item>
+        <item>Hastinapura</item>
+        <item>Hastinapura</item>
+        <item>Vrindavan</item>
+        <item>Hastinapura</item>
+    </string-array>
+
+    <string-array name="data_perode">
+        <item>abad 16 Majapahit</item>
+        <item>abad 16 Majapahit</item>
+        <item>abad 16 Majapahit</item>
+        <item>abad 16 Majapahit</item>
+        <item>abad 16 Majapahit</item>
+        <item>abad 16 Majapahit</item>
+        <item>abad 16 Majapahit</item>
+        <item>abad 16 Majapahit</item>
+        <item>abad 16 Majapahit</item>
+        <item>abad 16 Majapahit</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/yudistira2</item>
+        <item>@drawable/bima</item>
+        <item>@drawable/arjuna2</item>
+        <item>@drawable/nakula</item>
+        <item>@drawable/sadewa</item>
+        <item>@drawable/destrarasta</item>
+        <item>@drawable/duryudana</item>
+        <item>@drawable/dursasana</item>
+        <item>@drawable/krisna</item>
+        <item>@drawable/pandu</item>
+    </integer-array>
+</resources>
